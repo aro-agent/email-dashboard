@@ -1,0 +1,282 @@
+{
+  "summary": {
+    "timestamp": "2026-03-08T07:55:00-05:00",
+    "date": "2026-03-08",
+    "total_today": 50,
+    "total_week": 50,
+    "from_carriers": 18,
+    "from_advisors": 0,
+    "informational": 45,
+    "action_items_count": 4
+  },
+  "action_items": [
+    {
+      "priority": "high",
+      "subject": "FW: [EXTERNAL] L&C Commission Statement Update",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Corebridge Financial (via Tiffany)",
+      "received": "2026-03-08T06:05:00-05:00",
+      "summary": "Corebridge Financial (AGL) has posted a new commission statement. Two separate notifications received, indicating statements are available for review in the Corebridge advisor portal.",
+      "action_required": "Log into the Corebridge Financial advisor portal and download the commission statement(s). Reconcile against expected commissions and flag any discrepancies to accounting.",
+      "category": "Commissions / Financials",
+      "email_id": "corebridge-commission-001"
+    },
+    {
+      "priority": "high",
+      "subject": "FW: [EXTERNAL] L&C Commission Statement Update",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Corebridge Financial (via Tiffany)",
+      "received": "2026-03-08T06:05:00-05:00",
+      "summary": "Second Corebridge Financial commission statement notification — likely a separate advisor or product line statement.",
+      "action_required": "Log into the Corebridge Financial advisor portal and download this second commission statement. Reconcile and file.",
+      "category": "Commissions / Financials",
+      "email_id": "corebridge-commission-002"
+    },
+    {
+      "priority": "normal",
+      "subject": "FW: [EXTERNAL] Transitioning to electronic applications for ForeCare and ForeCertain",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Global Atlantic / Forethought Life (via Tiffany)",
+      "received": "2026-03-08T06:05:00-05:00",
+      "summary": "Global Atlantic (Forethought Life Insurance Company) is transitioning ForeCare and ForeCertain products to electronic applications only. Paper applications will no longer be accepted after the transition date.",
+      "action_required": "Notify any advisors currently using paper apps for ForeCare or ForeCertain that they must switch to eApp. Confirm transition date from the full email. Update BSMG's product submission guidance for these products.",
+      "category": "Rate Updates / Product Info",
+      "email_id": "global-atlantic-eapp-001"
+    },
+    {
+      "priority": "normal",
+      "subject": "FW: [Postmaster] Messages on hold for tbuchanan@bsmg.net",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "BSMG Postmaster (via Tiffany)",
+      "received": "2026-03-08T06:05:00-05:00",
+      "summary": "The BSMG mail server has messages queued and on hold for Tiffany's inbox. This may indicate inbound email delivery delays or a spam filter issue. Two separate notifications received.",
+      "action_required": "Log into the BSMG Postmaster or IT portal and release or review the held messages. Contact BSMG IT if messages from known carriers or advisors are being held incorrectly.",
+      "category": "System / Notifications",
+      "email_id": "postmaster-hold-001"
+    }
+  ],
+  "emails": [
+    {
+      "email_id": "corebridge-commission-001",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Corebridge Financial (via Tiffany)",
+      "subject": "FW: [EXTERNAL] L&C Commission Statement Update",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "Commissions / Financials",
+      "priority": "high",
+      "has_attachment": true
+    },
+    {
+      "email_id": "corebridge-commission-002",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Corebridge Financial (via Tiffany)",
+      "subject": "FW: [EXTERNAL] L&C Commission Statement Update",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "Commissions / Financials",
+      "priority": "high",
+      "has_attachment": true
+    },
+    {
+      "email_id": "global-atlantic-eapp-001",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Global Atlantic / Forethought Life (via Tiffany)",
+      "subject": "FW: [EXTERNAL] Transitioning to electronic applications for ForeCare and ForeCertain",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "Rate Updates / Product Info",
+      "priority": "normal",
+      "has_attachment": true
+    },
+    {
+      "email_id": "postmaster-hold-001",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "BSMG Postmaster (via Tiffany)",
+      "subject": "FW: [Postmaster] Messages on hold for tbuchanan@bsmg.net",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "normal",
+      "has_attachment": true
+    },
+    {
+      "email_id": "postmaster-hold-002",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "BSMG Postmaster (via Tiffany)",
+      "subject": "FW: [Postmaster] Messages on hold for tbuchanan@bsmg.net",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "normal",
+      "has_attachment": true
+    },
+    {
+      "email_id": "deals-entered-001",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HubSpot (via Tiffany)",
+      "subject": "FW: [EXTERNAL] Deals Entered - Product",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "normal",
+      "has_attachment": true
+    },
+    {
+      "email_id": "deals-entered-002",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HubSpot (via Tiffany)",
+      "subject": "FW: [EXTERNAL] Deals Entered - Product",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "normal",
+      "has_attachment": true
+    },
+    {
+      "email_id": "deals-entered-003",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HubSpot (via Tiffany)",
+      "subject": "FW: [EXTERNAL] Deals Entered - Product",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "normal",
+      "has_attachment": true
+    },
+    {
+      "email_id": "3qd-report-001",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HubSpot Dashboard (via Tiffany)",
+      "subject": "FW: [EXTERNAL] 3QD - Week to Date & Month to Date",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "3qd-report-002",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HubSpot Dashboard (via Tiffany)",
+      "subject": "FW: [EXTERNAL] 3QD - Week to Date & Month to Date",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "3qd-report-003",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HubSpot Dashboard (via Tiffany)",
+      "subject": "FW: [EXTERNAL] 3QD - Week to Date & Month to Date",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "3qd-report-004",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HubSpot Dashboard (via Tiffany)",
+      "subject": "FW: [EXTERNAL] 3QD - Week to Date & Month to Date",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "hub-weekly-digest",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HUB International (via Tiffany)",
+      "subject": "FW: [EXTERNAL] HUB International Limited Weekly Digest",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "Rate Updates / Product Info",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "hub-daily-digest",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "HUB International (via Tiffany)",
+      "subject": "FW: [EXTERNAL] HUB International Limited Daily Digest",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "Rate Updates / Product Info",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "index-rates-same",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Carrier Rate Update (via Tiffany)",
+      "subject": "FW: [EXTERNAL] Index annuity rates are remaining the same effective Monday, January 26, 2026",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "Rate Updates / Product Info",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "bsmg-rate-changes",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "BSMG (via Tiffany)",
+      "subject": "FW: [EXTERNAL] BSMG: Weekly Annuity Rate Changes",
+      "received": "2026-03-08T06:04:00-05:00",
+      "category": "Rate Updates / Product Info",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "ms365-impact",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Microsoft / IT (via Tiffany)",
+      "subject": "FW: [EXTERNAL] Microsoft 365 Service Impact - Email Delays",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "ms365-restored",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Microsoft / IT (via Tiffany)",
+      "subject": "FW: [EXTERNAL] Microsoft 365 Service Restored",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "policy-changes-clients",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Carrier / Marketing (via Tiffany)",
+      "subject": "FW: [EXTERNAL] Last Chance: What Policy Changes Mean for Your Clients",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "Rate Updates / Product Info",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "estate-planning-opp",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Marketing (via Tiffany)",
+      "subject": "FW: [EXTERNAL] The $2 Million Estate Planning Opportunity",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "Rate Updates / Product Info",
+      "priority": "low",
+      "has_attachment": true
+    },
+    {
+      "email_id": "nfl-mindset",
+      "from": "tbuchanan@bsmg.net",
+      "from_short": "Marketing (via Tiffany)",
+      "subject": "FW: Unlock the mindset that drives NFL champions.",
+      "received": "2026-03-08T06:05:00-05:00",
+      "category": "System / Notifications",
+      "priority": "low",
+      "has_attachment": true
+    }
+  ],
+  "categories": {
+    "Commissions / Financials": 2,
+    "Rate Updates / Product Info": 7,
+    "System / Notifications": 12,
+    "New Business / Confirmations": 0,
+    "NIGO / Pending Requirements": 0,
+    "Advisor Follow-Up": 0,
+    "Policy Issued / Paid": 0,
+    "Illustration Requests": 0,
+    "Other": 0
+  },
+  "weekly_summary": "<p>Week of <strong>March 8, 2026</strong> — First email digest from the ARO intelligence system.</p><p><strong>Top Priority:</strong> Two <strong>Corebridge Financial commission statements</strong> are available in the advisor portal. These should be downloaded and reconciled today.</p><p><strong>Product Change Alert:</strong> <strong>Global Atlantic</strong> (Forethought Life) is transitioning ForeCare and ForeCertain products to electronic-only applications. Advisors submitting these products need to be notified to switch to eApp before the deadline.</p><p><strong>IT Note:</strong> Microsoft 365 experienced email delays earlier today — now resolved. Separately, the BSMG Postmaster flagged messages on hold for Tiffany's inbox; these should be reviewed to ensure no carrier or advisor emails are being incorrectly filtered.</p><p><strong>Volume Pattern:</strong> The majority of today's inbox (approximately 70%) consists of recurring automated reports — HubSpot pipeline exports (3QD, Deals Entered) and HUB International digests. These are informational and require no action. The forwarding rule is capturing significant volume; consider filtering automated HubSpot reports to a separate label to reduce noise in future digests.</p><p><strong>No advisor follow-up or NIGO items detected</strong> in today's scan. Clean week from a case management perspective.</p>"
+}

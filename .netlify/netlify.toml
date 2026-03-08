@@ -1,0 +1,35 @@
+headersOrigin = "config"
+plugins = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\Owner\\.openclaw\\workspace\\dashboards\\email"
+publishOrigin = "config"
+base = "C:\\Users\\Owner\\.openclaw\\workspace\\dashboards\\email"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
+
+[[headers]]
+for = "/*"
+
+[headers.values]
+X-Robots-Tag = "noindex, nofollow"
+X-Frame-Options = "DENY"
+X-Content-Type-Options = "nosniff"
+Referrer-Policy = "no-referrer"
