@@ -1,126 +1,268 @@
 {
   "summary": {
-    "timestamp": "2026-03-09T04:50:00-04:00",
+    "timestamp": "2026-03-09T09:20:00-04:00",
     "date": "2026-03-09",
-    "total_today": 12,
-    "total_week": 45,
+    "total_today": 1,
+    "total_week": 20,
     "from_carriers": 5,
-    "from_advisors": 4,
-    "informational": 3,
+    "from_advisors": 0,
+    "informational": 13,
     "action_items_count": 4
   },
   "action_items": [
     {
+      "id": "netlify-credits-75",
+      "from": "Netlify",
+      "subject": "[Netlify] You've used 75% of your credits on ARO_BSMG",
+      "time": "2026-03-09T04:37:00-04:00",
+      "category": "System",
       "priority": "urgent",
-      "category": "NIGO",
-      "from": "MassMutual Ascend",
-      "subject": "Additional Documentation Needed - Policy 1192073165",
-      "date": "2026-03-09T08:15:00-04:00",
-      "summary": "Missing beneficiary designation update for Johnson, Donna L policy. Response needed by 3/10.",
-      "action": "Contact Johnson client for updated beneficiary form"
+      "summary": "The ARO_BSMG Netlify site has consumed 75% of its build credits. Dashboard may stop auto-deploying if limit is reached.",
+      "action": "Review Netlify billing plan or reduce build frequency. Consider upgrading plan if ARO dashboard needs continued auto-deploy. Immediate attention recommended."
     },
     {
+      "id": "postmaster-hold-1",
+      "from": "Buchanan, Tiffany (FW)",
+      "subject": "FW: [Postmaster] Messages on hold for tbuchanan@bsmg.net",
+      "time": "2026-03-08",
+      "category": "System",
       "priority": "high",
-      "category": "Advisor Follow-Up",
-      "from": "Jeffrey Shaffer",
-      "subject": "Re: Stroud 1035 Exchange Timeline",
-      "date": "2026-03-08T14:32:00-04:00",
-      "summary": "Waiting on Stroud's decision on illustration by Friday 3/13.",
-      "action": "Follow up with Jeffrey and client by 3/11"
+      "summary": "Microsoft Postmaster is holding messages for tbuchanan@bsmg.net — email delivery issue at BSMG.",
+      "action": "Tiffany should check her BSMG email account for quarantined/held messages and release them or adjust email rules."
     },
     {
+      "id": "postmaster-hold-2",
+      "from": "Buchanan, Tiffany (FW)",
+      "subject": "FW: [Postmaster] Messages on hold for tbuchanan@bsmg.net",
+      "time": "2026-03-08",
+      "category": "System",
       "priority": "high",
-      "category": "Policy Issued",
-      "from": "Athene",
-      "subject": "Policy Issued - AA10183808",
-      "date": "2026-03-08T11:20:00-04:00",
-      "summary": "Williams policy has been issued and ready for delivery.",
-      "action": "Coordinate with agent for delivery"
+      "summary": "Second Postmaster alert — recurring email hold issue for tbuchanan@bsmg.net.",
+      "action": "Review postmaster.live.com for held messages. May need IT support at BSMG to resolve."
     },
     {
-      "priority": "normal",
-      "category": "Illustration Request",
-      "from": "Taylor, Jordan",
-      "subject": "Illustration Needed - SecureFore 7 vs 3",
-      "date": "2026-03-07T16:45:00-04:00",
-      "summary": "Comparing product options for Hall, Denise renewable case.",
-      "action": "Request illustration from carrier"
+      "id": "ms365-delays",
+      "from": "Buchanan, Tiffany (FW)",
+      "subject": "FW: [EXTERNAL] Microsoft 365 Service Impact - Email Delays",
+      "time": "2026-03-08",
+      "category": "System",
+      "priority": "high",
+      "summary": "Microsoft 365 is experiencing service issues causing email delays. May affect carrier communications.",
+      "action": "Monitor for missed carrier emails. If any expected emails haven't arrived, check spam/held folders."
     }
   ],
   "emails": [
     {
+      "id": "netlify-75",
+      "from": "Netlify",
+      "subject": "[Netlify] You've used 75% of your credits on ARO_BSMG",
+      "time": "2026-03-09T04:37:00-04:00",
+      "category": "System",
       "priority": "urgent",
-      "category": "NIGO",
-      "from": "MassMutual Ascend",
-      "date": "2026-03-09T08:15:00-04:00",
-      "subject": "Additional Documentation Needed - Policy 1192073165"
+      "summary": "Netlify billing alert: 75% of build credits used for ARO dashboard site.",
+      "action": "Review Netlify plan and consider upgrade if needed."
     },
     {
-      "priority": "high",
-      "category": "Advisor Follow-Up",
-      "from": "Jeffrey Shaffer",
-      "date": "2026-03-08T14:32:00-04:00",
-      "subject": "Re: Stroud 1035 Exchange Timeline"
-    },
-    {
-      "priority": "high",
-      "category": "Policy Issued",
-      "from": "Athene",
-      "date": "2026-03-08T11:20:00-04:00",
-      "subject": "Policy Issued - AA10183808"
-    },
-    {
-      "priority": "normal",
-      "category": "Illustration Request",
-      "from": "Taylor, Jordan",
-      "date": "2026-03-07T16:45:00-04:00",
-      "subject": "Illustration Needed - SecureFore 7 vs 3"
-    },
-    {
-      "priority": "normal",
-      "category": "Rate Updates",
-      "from": "Corebridge Financial",
-      "date": "2026-03-07T09:30:00-04:00",
-      "subject": "March 2026 Rate Update - Effective 3/15"
-    },
-    {
-      "priority": "normal",
-      "category": "Commissions",
-      "from": "Athene",
-      "date": "2026-03-06T15:22:00-04:00",
-      "subject": "Commission Statement - February 2026"
-    },
-    {
-      "priority": "low",
+      "id": "github-token",
+      "from": "GitHub",
+      "subject": "[GitHub] A fine-grained personal access token has been added to your account",
+      "time": "2026-03-08",
       "category": "System",
-      "from": "HubSpot",
-      "date": "2026-03-06T10:01:00-04:00",
-      "subject": "Workflow Execution Summary"
+      "priority": "normal",
+      "summary": "GitHub security notification: new PAT added to account (expected — ARO agent setup).",
+      "action": null
     },
     {
-      "priority": "low",
+      "id": "netlify-50",
+      "from": "Netlify",
+      "subject": "[Netlify] You've used 50% of your credits on ARO_BSMG",
+      "time": "2026-03-08",
       "category": "System",
-      "from": "HubSpot",
-      "date": "2026-03-05T16:45:00-04:00",
-      "subject": "Task Reminder - Overdue Items"
+      "priority": "normal",
+      "summary": "Netlify billing alert: 50% of build credits used (older notification, now at 75%).",
+      "action": null
     },
     {
-      "priority": "low",
+      "id": "github-3p",
+      "from": "GitHub",
+      "subject": "[GitHub] A third-party GitHub Application has been added to your account",
+      "time": "2026-03-08",
+      "category": "System",
+      "priority": "normal",
+      "summary": "GitHub security: third-party app added (expected — Netlify integration).",
+      "action": null
+    },
+    {
+      "id": "github-1p",
+      "from": "GitHub",
+      "subject": "[GitHub] A first-party GitHub OAuth application has been added to your account",
+      "time": "2026-03-08",
+      "category": "System",
+      "priority": "normal",
+      "summary": "GitHub security: OAuth app added (expected — Netlify integration).",
+      "action": null
+    },
+    {
+      "id": "hub-weekly",
+      "from": "Buchanan, Tiffany (FW: HUB)",
+      "subject": "FW: [EXTERNAL] HUB International Limited Weekly Digest",
+      "time": "2026-03-08",
       "category": "Other",
-      "from": "Morningstar",
-      "date": "2026-03-05T08:30:00-04:00",
-      "subject": "Weekly Market Update"
+      "priority": "low",
+      "summary": "HUB International weekly organizational newsletter forwarded from Tiffany.",
+      "action": null
+    },
+    {
+      "id": "rate-updates",
+      "from": "Buchanan, Tiffany (FW: Carrier)",
+      "subject": "FW: [EXTERNAL] Index annuity rates are remaining the same effective Monday, January 26, 2026",
+      "time": "2026-03-08",
+      "category": "Rate Updates",
+      "priority": "low",
+      "summary": "Carrier rate notification: index annuity rates unchanged effective Jan 26, 2026 (informational, older date).",
+      "action": null
+    },
+    {
+      "id": "deals-1",
+      "from": "Buchanan, Tiffany (FW: Carrier)",
+      "subject": "FW: [EXTERNAL] Deals Entered - Product",
+      "time": "2026-03-08",
+      "category": "New Business",
+      "priority": "normal",
+      "summary": "New business activity report forwarded from carrier — deals entered by product type.",
+      "action": null
+    },
+    {
+      "id": "postmaster-1",
+      "from": "Buchanan, Tiffany (FW)",
+      "subject": "FW: [Postmaster] Messages on hold for tbuchanan@bsmg.net",
+      "time": "2026-03-08",
+      "category": "System",
+      "priority": "high",
+      "summary": "Email delivery issue: messages held for tbuchanan@bsmg.net.",
+      "action": "Release held messages via postmaster.live.com"
+    },
+    {
+      "id": "3qd-1",
+      "from": "Buchanan, Tiffany (FW: Carrier)",
+      "subject": "FW: [EXTERNAL] 3QD - Week to Date & Month to Date",
+      "time": "2026-03-08",
+      "category": "Other",
+      "priority": "low",
+      "summary": "3QD production report: week-to-date and month-to-date metrics.",
+      "action": null
+    },
+    {
+      "id": "hub-daily",
+      "from": "Buchanan, Tiffany (FW: HUB)",
+      "subject": "FW: [EXTERNAL] HUB International Limited Daily Digest",
+      "time": "2026-03-08",
+      "category": "Other",
+      "priority": "low",
+      "summary": "HUB International daily organizational digest.",
+      "action": null
+    },
+    {
+      "id": "forecare",
+      "from": "Buchanan, Tiffany (FW: Carrier)",
+      "subject": "FW: [EXTERNAL] Transitioning to electronic applications for ForeCare and ForeCertain",
+      "time": "2026-03-08",
+      "category": "System",
+      "priority": "normal",
+      "summary": "Global Atlantic transitioning ForeCare and ForeCertain products to electronic applications.",
+      "action": "Note for advisors using these products to switch to e-App."
+    },
+    {
+      "id": "estate-planning",
+      "from": "Buchanan, Tiffany (FW)",
+      "subject": "FW: [EXTERNAL] The $2 Million Estate Planning Opportunity",
+      "time": "2026-03-08",
+      "category": "Other",
+      "priority": "low",
+      "summary": "Marketing/educational content about estate planning opportunities.",
+      "action": null
+    },
+    {
+      "id": "deals-2",
+      "from": "Buchanan, Tiffany (FW: Carrier)",
+      "subject": "FW: [EXTERNAL] Deals Entered - Product",
+      "time": "2026-03-08",
+      "category": "New Business",
+      "priority": "normal",
+      "summary": "New business activity report forwarded from carrier.",
+      "action": null
+    },
+    {
+      "id": "ms365",
+      "from": "Buchanan, Tiffany (FW)",
+      "subject": "FW: [EXTERNAL] Microsoft 365 Service Impact - Email Delays",
+      "time": "2026-03-08",
+      "category": "System",
+      "priority": "high",
+      "summary": "Microsoft 365 service impact causing email delays.",
+      "action": "Monitor for missed carrier communications."
+    },
+    {
+      "id": "nfl-mindset",
+      "from": "Buchanan, Tiffany (FW)",
+      "subject": "FW: Unlock the mindset that drives NFL champions.",
+      "time": "2026-03-08",
+      "category": "Other",
+      "priority": "low",
+      "summary": "Marketing/motivational email forwarded — not business critical.",
+      "action": null
+    },
+    {
+      "id": "postmaster-2",
+      "from": "Buchanan, Tiffany (FW)",
+      "subject": "FW: [Postmaster] Messages on hold for tbuchanan@bsmg.net",
+      "time": "2026-03-08",
+      "category": "System",
+      "priority": "high",
+      "summary": "Second postmaster alert — recurring email hold for tbuchanan@bsmg.net.",
+      "action": "Escalate to BSMG IT if issue persists."
+    },
+    {
+      "id": "3qd-2",
+      "from": "Buchanan, Tiffany (FW: Carrier)",
+      "subject": "FW: [EXTERNAL] 3QD - Week to Date & Month to Date",
+      "time": "2026-03-08",
+      "category": "Other",
+      "priority": "low",
+      "summary": "3QD production report.",
+      "action": null
+    },
+    {
+      "id": "3qd-3",
+      "from": "Buchanan, Tiffany (FW: Carrier)",
+      "subject": "FW: [EXTERNAL] 3QD - Week to Date & Month to Date",
+      "time": "2026-03-08",
+      "category": "Other",
+      "priority": "low",
+      "summary": "3QD production report.",
+      "action": null
+    },
+    {
+      "id": "deals-3",
+      "from": "Buchanan, Tiffany (FW: Carrier)",
+      "subject": "FW: [EXTERNAL] Deals Entered - Product",
+      "time": "2026-03-08",
+      "category": "New Business",
+      "priority": "normal",
+      "summary": "New business activity report forwarded from carrier.",
+      "action": null
     }
   ],
   "categories": {
-    "NIGO": 2,
-    "Advisor Follow-Up": 3,
-    "Policy Issued": 2,
-    "Illustration Request": 1,
+    "System": 8,
+    "New Business": 3,
     "Rate Updates": 1,
-    "Commissions": 1,
-    "System": 2,
-    "Other": 1
+    "Other": 7,
+    "NIGO": 0,
+    "Advisor Follow-Up": 0,
+    "Policy Issued": 0,
+    "Illustration Request": 0,
+    "Commissions": 0
   },
-  "weekly_summary": "<p><strong>Key Themes for Week of 3/9-3/15:</strong></p><ul><li><strong>Pending NIGOs:</strong> 2 requests from carriers needing documentation. MassMutual needs beneficiary update for Johnson policy (urgent). Focus on client follow-up by 3/10.</li><li><strong>Advisor Activity:</strong> 3 follow-ups from advisors on pending cases. Shaffer awaiting Stroud's decision. Taylor requesting illustrations for Hall case comparison.</li><li><strong>New Business:</strong> 2 policies in issued status (Williams AA10183808 ready for delivery). Rate environment stable with March updates from Corebridge.</li><li><strong>Commission Reports:</strong> February statements received from Athene. Standard recurring items handled.</li></ul><p><strong>Priority Actions Required:</strong> (1) Contact Johnson client for beneficiary form by 3/10; (2) Follow up with Shaffer on Stroud timeline by 3/11; (3) Coordinate Williams delivery; (4) Request SecureFore illustrations for Hall comparison.</p>"
+  "weekly_summary": "<p><strong>Week of March 9, 2026 — Email Intelligence Summary</strong></p><p>This week's inbox is dominated by system notifications and carrier production reports forwarded from Tiffany's Outlook.</p><p><strong>Priority Items:</strong></p><ul><li>🔴 <strong>Netlify Credits at 75%</strong> — The ARO dashboard site is consuming build credits rapidly. At the current pace of 2 batch runs/day with dashboard updates, credits could be exhausted within days. Recommend reviewing the Netlify billing plan or throttling builds.</li><li>🟡 <strong>Email Delivery Issues</strong> — Two Microsoft Postmaster alerts indicate Tiffany's BSMG email (tbuchanan@bsmg.net) has messages on hold. Combined with a Microsoft 365 service impact notification, carrier emails may be delayed or missing. Manual inbox check recommended.</li></ul><p><strong>Business Activity:</strong></p><ul><li>3x 'Deals Entered - Product' reports from carriers — new annuity/insurance business activity this week</li><li>Global Atlantic transitioning to e-Apps for ForeCare/ForeCertain products</li><li>Index annuity rates stable as of Jan 26, 2026</li></ul><p><strong>Next Week's Focus:</strong></p><ul><li>Resolve Netlify credit situation before hitting 100%</li><li>Confirm tbuchanan@bsmg.net email delivery is restored</li><li>Follow up on Corebridge, Lincoln National, Voya, FG Life policies that cannot be verified through NIC (manual portal access needed)</li></ul>"
 }
